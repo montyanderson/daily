@@ -19,7 +19,11 @@
   },
   "homepage": "https://github.com/montyanderson/daily#readme",
   "dependencies": {
+    "bluebird": "^3.4.6",
     "ioredis": "^2.4.0",
+    "moment": "^2.15.2",
+    "p-redis": "0.0.1",
+    "redis": "^2.6.3",
     "trench": "~0.0.1"
   },
   "devDependencies": {
